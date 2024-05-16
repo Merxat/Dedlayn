@@ -88,6 +88,7 @@ namespace Online_Buyirtma
             {
                 MessageBox.Show("UserName kiriting", "Xatolik!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            // Register qismi
 
 
         }
