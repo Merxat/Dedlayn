@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Online_Buyirtma</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include=".cs\Employe.cs" />
+    <Compile Include=".cs\Form4.Designer.cs" />
+    <Compile Include=".cs\Funktions.cs" />
+    <Compile Include=".cs\Program.cs" />
+  </ItemGroup>
+
+</Project>

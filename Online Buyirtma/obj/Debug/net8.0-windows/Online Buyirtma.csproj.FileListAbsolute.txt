@@ -1,0 +1,20 @@
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\bin\Debug\net8.0-windows\Online Buyirtma.exe
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\bin\Debug\net8.0-windows\Online Buyirtma.deps.json
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\bin\Debug\net8.0-windows\Online Buyirtma.runtimeconfig.json
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\bin\Debug\net8.0-windows\Online Buyirtma.dll
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\bin\Debug\net8.0-windows\Online Buyirtma.pdb
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online_Buyirtma.Form1.resources
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online_Buyirtma.Form2.resources
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online_Buyirtma.Form3.resources
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online Buyirtma.csproj.GenerateResource.cache
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online Buyirtma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online Buyirtma.AssemblyInfoInputs.cache
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online Buyirtma.AssemblyInfo.cs
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online Buyirtma.csproj.CoreCompileInputs.cache
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online Buyirtma.dll
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\refint\Online Buyirtma.dll
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online Buyirtma.pdb
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online Buyirtma.genruntimeconfig.cache
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\ref\Online Buyirtma.dll
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online Buyirtma.sourcelink.json
+D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\obj\Debug\net8.0-windows\Online_Buyirtma.AsosiyOyna.resources

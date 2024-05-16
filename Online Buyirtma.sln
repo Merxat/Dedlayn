@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online Buyirtma", "Online Buyirtma\Online Buyirtma.csproj", "{602223AA-4BFA-4D54-AC0F-83610D32ADC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602223AA-4BFA-4D54-AC0F-83610D32ADC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602223AA-4BFA-4D54-AC0F-83610D32ADC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602223AA-4BFA-4D54-AC0F-83610D32ADC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602223AA-4BFA-4D54-AC0F-83610D32ADC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BAF2A7F-712E-43B7-B1FA-171B69D459EA}
+	EndGlobalSection
+EndGlobal
