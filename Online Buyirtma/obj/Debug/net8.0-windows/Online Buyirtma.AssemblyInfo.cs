@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Online Buyirtma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba04d11c1e2d245fbd12eaffe20ae6cea389469b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86b30cc798625a05f8c1594f0dd084f60069fa38")]
 [assembly: System.Reflection.AssemblyProductAttribute("Online Buyirtma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Online Buyirtma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
