@@ -11,10 +11,10 @@
 
   <ItemGroup>
     <Compile Include=".cs\Employe.cs" />
-    <Compile Include=".cs\Form4.Designer.cs" />
     <Compile Include=".cs\Funktions.cs" />
     <Compile Include=".cs\Product.cs" />
     <Compile Include=".cs\Program.cs" />
+    <Compile Include=".cs\SalesProduct.cs" />
   </ItemGroup>
 
 </Project>
