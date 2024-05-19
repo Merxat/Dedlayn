@@ -25,6 +25,7 @@ namespace Online_Buyirtma
                 products.Add(new Product {Id=i,Nomi = proLine[1],Narxi = proLine[2], Soni = proLine[3] });            
             }
            dataGridView1.DataSource=products;
+           //dataGrid
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
