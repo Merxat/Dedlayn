@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Online_Buyirtma.cs;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,20 @@ namespace Online_Buyirtma
         public AsosiyOyna()
         {
             InitializeComponent();
+            List<Product> products = new List<Product>();
+            string path = @"D:\Users\User 2022\Desktop\Dasturiy injinering ga kirish\Online Buyirtma\Online Buyirtma\txt.files\Product.txt";
+            string[]productList=File.ReadAllLines(path);
+           for(int i = 0; i < productList.Length; i++)
+            {
+                string[] proLine = productList[i].Split(",");
+                products.Add(new Product {Id=i,Nomi = proLine[1],Narxi = proLine[2], Soni = proLine[3] });            
+            }
+           dataGridView1.DataSource=products;
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
